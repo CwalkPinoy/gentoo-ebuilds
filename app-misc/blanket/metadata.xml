@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>caseyeaton@protonmail.com</email>
+    <description>Casey Eaton</description>
+  </maintainer>
+  <longdescription>
+    Improve focus and increase your productivity by listening to different sounds. Or allows you to fall asleep in a noisy environment.
+  </longdescription>
+  <upstream>
+   <remote-id type="github">
+    rafaelmardojai/blanket
+   </remote-id>
+  </upstream>
+</pkgmetadata>
